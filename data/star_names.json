@@ -1,0 +1,1979 @@
+{
+  "100064": {
+    "bayer": "alf02 Cap",
+    "con": "Cap",
+    "name": "Algedi"
+  },
+  "100310": {
+    "bayer": "nu Cap",
+    "con": "Cap",
+    "name": "Alshat"
+  },
+  "100345": {
+    "bayer": "bet01 Cap",
+    "con": "Cap",
+    "name": "Dabih"
+  },
+  "100453": {
+    "bayer": "gam Cyg",
+    "con": "Cyg",
+    "name": "Sadr"
+  },
+  "100751": {
+    "bayer": "alf Pav",
+    "con": "Pav",
+    "name": "Peacock"
+  },
+  "101421": {
+    "bayer": "eps Del",
+    "con": "Del",
+    "name": "Aldulfin"
+  },
+  "101769": {
+    "bayer": "bet Del",
+    "con": "Del",
+    "name": "Rotanev"
+  },
+  "101958": {
+    "bayer": "alf Del",
+    "con": "Del",
+    "name": "Sualocin"
+  },
+  "102098": {
+    "bayer": "alf Cyg",
+    "con": "Cyg",
+    "name": "Deneb"
+  },
+  "102488": {
+    "bayer": "eps Cyg",
+    "con": "Cyg",
+    "name": "Aljanah"
+  },
+  "102618": {
+    "bayer": "eps Aqr",
+    "con": "Aqr",
+    "name": "Albali"
+  },
+  "103527": {
+    "bayer": "18 Del",
+    "con": "Del",
+    "name": "Musica"
+  },
+  "104382": {
+    "bayer": "sig Oct",
+    "con": "Oct",
+    "name": "Polaris Australis"
+  },
+  "104780": {
+    "con": "Peg",
+    "name": "Solaris"
+  },
+  "104987": {
+    "bayer": "alf Equ",
+    "con": "Equ",
+    "name": "Kitalpha"
+  },
+  "105199": {
+    "bayer": "alf Cep",
+    "con": "Cep",
+    "name": "Alderamin"
+  },
+  "106032": {
+    "bayer": "bet Cep",
+    "con": "Cep",
+    "name": "Alfirk"
+  },
+  "106278": {
+    "bayer": "bet Aqr",
+    "con": "Aqr",
+    "name": "Sadalsuud"
+  },
+  "1067": {
+    "bayer": "gam Peg",
+    "con": "Peg",
+    "name": "Algenib"
+  },
+  "106786": {
+    "bayer": "ksi Aqr",
+    "con": "Aqr",
+    "name": "Bunda"
+  },
+  "106824": {
+    "con": "PsA",
+    "name": "Samaya"
+  },
+  "106985": {
+    "bayer": "gam Cap",
+    "con": "Cap",
+    "name": "Nashira"
+  },
+  "107136": {
+    "bayer": "pi01 Cyg",
+    "con": "Cyg",
+    "name": "Azelfafage"
+  },
+  "107251": {
+    "con": "Aqr",
+    "name": "Bosona"
+  },
+  "107315": {
+    "bayer": "eps Peg",
+    "con": "Peg",
+    "name": "Enif"
+  },
+  "107556": {
+    "bayer": "del Cap",
+    "con": "Cap",
+    "name": "Deneb Algedi"
+  },
+  "108085": {
+    "bayer": "gam Gru",
+    "con": "Gru",
+    "name": "Aldhanab"
+  },
+  "10826": {
+    "bayer": "omi Cet",
+    "con": "Cet",
+    "name": "Mira"
+  },
+  "108375": {
+    "con": "Gru",
+    "name": "Itonda"
+  },
+  "108917": {
+    "bayer": "ksi Cep",
+    "con": "Cep",
+    "name": "Kurhah"
+  },
+  "109074": {
+    "bayer": "alf Aqr",
+    "con": "Aqr",
+    "name": "Sadalmelik"
+  },
+  "109268": {
+    "bayer": "alf Gru",
+    "con": "Gru",
+    "name": "Alnair"
+  },
+  "109427": {
+    "bayer": "tet Peg",
+    "con": "Peg",
+    "name": "Biham"
+  },
+  "110003": {
+    "bayer": "tet Aqr",
+    "con": "Aqr",
+    "name": "Ancha"
+  },
+  "110395": {
+    "bayer": "gam Aqr",
+    "con": "Aqr",
+    "name": "Sadachbia"
+  },
+  "110813": {
+    "con": "Aqr",
+    "name": "Lionrock"
+  },
+  "111710": {
+    "bayer": "kap Aqr",
+    "con": "Aqr",
+    "name": "Situla"
+  },
+  "112029": {
+    "bayer": "zet Peg",
+    "con": "Peg",
+    "name": "Homam"
+  },
+  "112122": {
+    "bayer": "bet Gru",
+    "con": "Gru",
+    "name": "Tiaki"
+  },
+  "112158": {
+    "bayer": "eta Peg",
+    "con": "Peg",
+    "name": "Matar"
+  },
+  "112748": {
+    "bayer": "mu Peg",
+    "con": "Peg",
+    "name": "Sadalbari"
+  },
+  "113136": {
+    "bayer": "del Aqr",
+    "con": "Aqr",
+    "name": "Skat"
+  },
+  "113357": {
+    "bayer": "51 Peg",
+    "con": "Peg",
+    "name": "Helvetios"
+  },
+  "113368": {
+    "bayer": "alf PsA",
+    "con": "PsA",
+    "name": "Fomalhaut"
+  },
+  "113881": {
+    "bayer": "bet Peg",
+    "con": "Peg",
+    "name": "Scheat"
+  },
+  "113889": {
+    "bayer": "bet Psc",
+    "con": "Psc",
+    "name": "Fumalsamakah"
+  },
+  "113963": {
+    "bayer": "alf Peg",
+    "con": "Peg",
+    "name": "Markab"
+  },
+  "114322": {
+    "con": "Psc",
+    "name": "Ebla"
+  },
+  "115250": {
+    "bayer": "tau Peg",
+    "con": "Peg",
+    "name": "Salm"
+  },
+  "115623": {
+    "bayer": "ups Peg",
+    "con": "Peg",
+    "name": "Alkarab"
+  },
+  "116076": {
+    "bayer": "14 And",
+    "con": "And",
+    "name": "Veritate"
+  },
+  "116084": {
+    "con": "Tuc",
+    "name": "Poerava"
+  },
+  "116727": {
+    "bayer": "gam Cep",
+    "con": "Cep",
+    "name": "Errai"
+  },
+  "11767": {
+    "bayer": "alf UMi",
+    "con": "UMi",
+    "name": "Polaris"
+  },
+  "118319": {
+    "con": "Cet",
+    "name": "Axolotl"
+  },
+  "12191": {
+    "con": "And",
+    "name": "Buna"
+  },
+  "12706": {
+    "bayer": "gam Cet",
+    "con": "Cet",
+    "name": "Kaffaljidhma"
+  },
+  "12961": {
+    "con": "Eri",
+    "name": "Koeia"
+  },
+  "13061": {
+    "bayer": "39 Ari",
+    "con": "Ari",
+    "name": "Lilii Borea"
+  },
+  "13192": {
+    "con": "Cas",
+    "name": "Nushagak"
+  },
+  "13209": {
+    "bayer": "41 Ari",
+    "con": "Ari",
+    "name": "Bharani"
+  },
+  "13268": {
+    "bayer": "eta Per",
+    "con": "Per",
+    "name": "Miram"
+  },
+  "13288": {
+    "bayer": "tau02 Eri",
+    "con": "Eri",
+    "name": "Angetenar"
+  },
+  "13701": {
+    "bayer": "eta Eri",
+    "con": "Eri",
+    "name": "Azha"
+  },
+  "13847": {
+    "bayer": "tet01 Eri",
+    "con": "Eri",
+    "name": "Acamar"
+  },
+  "13993": {
+    "con": "Eri",
+    "name": "Ayeyarwady"
+  },
+  "14135": {
+    "bayer": "alf Cet",
+    "con": "Cet",
+    "name": "Menkar"
+  },
+  "14576": {
+    "bayer": "bet Per",
+    "con": "Per",
+    "name": "Algol"
+  },
+  "14668": {
+    "bayer": "kap Per",
+    "con": "Per",
+    "name": "Misam"
+  },
+  "14838": {
+    "bayer": "del Ari",
+    "con": "Ari",
+    "name": "Botein"
+  },
+  "14879": {
+    "bayer": "alf For",
+    "con": "For",
+    "name": "Dalim"
+  },
+  "15197": {
+    "bayer": "zet Eri",
+    "con": "Eri",
+    "name": "Zibal"
+  },
+  "1547": {
+    "con": "Psc",
+    "name": "Citadelle"
+  },
+  "15578": {
+    "con": "For",
+    "name": "Intan"
+  },
+  "15863": {
+    "bayer": "alf Per",
+    "con": "Per",
+    "name": "Mirfak"
+  },
+  "16537": {
+    "bayer": "eps Eri",
+    "con": "Eri",
+    "name": "Ran"
+  },
+  "17096": {
+    "con": "Ret",
+    "name": "Tupi"
+  },
+  "17378": {
+    "bayer": "del Eri",
+    "con": "Eri",
+    "name": "Rana"
+  },
+  "17448": {
+    "bayer": "omi Per",
+    "con": "Per",
+    "name": "Atik"
+  },
+  "17489": {
+    "bayer": "16 Tau",
+    "con": "Tau",
+    "name": "Celaeno"
+  },
+  "17499": {
+    "bayer": "17 Tau",
+    "con": "Tau",
+    "name": "Electra"
+  },
+  "17531": {
+    "bayer": "19 Tau",
+    "con": "Tau",
+    "name": "Taygeta"
+  },
+  "17573": {
+    "bayer": "20 Tau",
+    "con": "Tau",
+    "name": "Maia"
+  },
+  "17579": {
+    "bayer": "21 Tau",
+    "con": "Tau",
+    "name": "Asterope"
+  },
+  "17608": {
+    "bayer": "23 Tau",
+    "con": "Tau",
+    "name": "Merope"
+  },
+  "17702": {
+    "bayer": "eta Tau",
+    "con": "Tau",
+    "name": "Alcyone"
+  },
+  "17847": {
+    "bayer": "27 Tau",
+    "con": "Tau",
+    "name": "Atlas"
+  },
+  "17851": {
+    "bayer": "28 Tau",
+    "con": "Tau",
+    "name": "Pleione"
+  },
+  "18543": {
+    "bayer": "gam Eri",
+    "con": "Eri",
+    "name": "Zaurak"
+  },
+  "18614": {
+    "bayer": "ksi Per",
+    "con": "Per",
+    "name": "Menkib"
+  },
+  "19587": {
+    "bayer": "omi01 Eri",
+    "con": "Eri",
+    "name": "Beid"
+  },
+  "19849": {
+    "bayer": "omi02 Eri",
+    "con": "Eri",
+    "name": "Keid"
+  },
+  "20205": {
+    "bayer": "gam Tau",
+    "con": "Tau",
+    "name": "Prima Hyadum"
+  },
+  "20455": {
+    "bayer": "del01 Tau",
+    "con": "Tau",
+    "name": "Secunda Hyadum"
+  },
+  "20535": {
+    "bayer": "ups03 Eri",
+    "con": "Eri",
+    "name": "Beemim"
+  },
+  "2081": {
+    "bayer": "alf Phe",
+    "con": "Phe",
+    "name": "Ankaa"
+  },
+  "20889": {
+    "bayer": "eps Tau",
+    "con": "Tau",
+    "name": "Ain"
+  },
+  "20894": {
+    "bayer": "tet02 Tau",
+    "con": "Tau",
+    "name": "Chamukuy"
+  },
+  "21109": {
+    "con": "Tau",
+    "name": "Hoggar"
+  },
+  "21393": {
+    "bayer": "ups02 Eri",
+    "con": "Eri",
+    "name": "Theemin"
+  },
+  "21421": {
+    "bayer": "alf Tau",
+    "con": "Tau",
+    "name": "Aldebaran"
+  },
+  "21594": {
+    "bayer": "53 Eri",
+    "con": "Eri",
+    "name": "Sceptrum"
+  },
+  "22449": {
+    "bayer": "pi03 Ori",
+    "con": "Ori",
+    "name": "Tabit"
+  },
+  "2247": {
+    "con": "Cet",
+    "name": "Felixvarela"
+  },
+  "22491": {
+    "con": "Eri",
+    "name": "Mouhoun"
+  },
+  "23015": {
+    "bayer": "iot Aur",
+    "con": "Aur",
+    "name": "Hassaleh"
+  },
+  "23416": {
+    "bayer": "eps Aur",
+    "con": "Aur",
+    "name": "Almaaz"
+  },
+  "23453": {
+    "bayer": "zet Aur",
+    "con": "Aur",
+    "name": "Saclateni"
+  },
+  "23767": {
+    "bayer": "eta Aur",
+    "con": "Aur",
+    "name": "Haedus"
+  },
+  "23875": {
+    "bayer": "bet Eri",
+    "con": "Eri",
+    "name": "Cursa"
+  },
+  "24003": {
+    "con": "Cam",
+    "name": "Mago"
+  },
+  "24436": {
+    "bayer": "bet Ori",
+    "con": "Ori",
+    "name": "Rigel"
+  },
+  "24608": {
+    "bayer": "alf Aur",
+    "con": "Aur",
+    "name": "Capella"
+  },
+  "25336": {
+    "bayer": "gam Ori",
+    "con": "Ori",
+    "name": "Bellatrix"
+  },
+  "25428": {
+    "bayer": "bet Tau",
+    "con": "Tau",
+    "name": "Elnath"
+  },
+  "25606": {
+    "bayer": "bet Lep",
+    "con": "Lep",
+    "name": "Nihal"
+  },
+  "25930": {
+    "bayer": "del Ori",
+    "con": "Ori",
+    "name": "Mintaka"
+  },
+  "25985": {
+    "bayer": "alf Lep",
+    "con": "Lep",
+    "name": "Arneb"
+  },
+  "26207": {
+    "bayer": "lam Ori",
+    "con": "Ori",
+    "name": "Meissa"
+  },
+  "26241": {
+    "bayer": "iot Ori",
+    "con": "Ori",
+    "name": "Hatysa"
+  },
+  "26311": {
+    "bayer": "eps Ori",
+    "con": "Ori",
+    "name": "Alnilam"
+  },
+  "26380": {
+    "con": "Men",
+    "name": "Bubup"
+  },
+  "26451": {
+    "bayer": "zet Tau",
+    "con": "Tau",
+    "name": "Tianguan"
+  },
+  "26634": {
+    "bayer": "alf Col",
+    "con": "Col",
+    "name": "Phact"
+  },
+  "26727": {
+    "bayer": "zet Ori",
+    "con": "Ori",
+    "name": "Alnitak"
+  },
+  "27366": {
+    "bayer": "kap Ori",
+    "con": "Ori",
+    "name": "Saiph"
+  },
+  "27628": {
+    "bayer": "bet Col",
+    "con": "Col",
+    "name": "Wazn"
+  },
+  "27989": {
+    "bayer": "alf Ori",
+    "con": "Ori",
+    "name": "Betelgeuse"
+  },
+  "28360": {
+    "bayer": "bet Aur",
+    "con": "Aur",
+    "name": "Menkalinan"
+  },
+  "28380": {
+    "bayer": "tet Aur",
+    "con": "Aur",
+    "name": "Mahasim"
+  },
+  "29034": {
+    "bayer": "tet Col",
+    "con": "Col",
+    "name": "Elkurud"
+  },
+  "2920": {
+    "bayer": "zet Cas",
+    "con": "Cas",
+    "name": "Fulu"
+  },
+  "29550": {
+    "con": "CMa",
+    "name": "Amadioha"
+  },
+  "29655": {
+    "bayer": "eta Gem",
+    "con": "Gem",
+    "name": "Propus"
+  },
+  "30122": {
+    "bayer": "zet CMa",
+    "con": "CMa",
+    "name": "Furud"
+  },
+  "30324": {
+    "bayer": "bet CMa",
+    "con": "CMa",
+    "name": "Mirzam"
+  },
+  "30343": {
+    "bayer": "mu Gem",
+    "con": "Gem",
+    "name": "Tejat"
+  },
+  "30438": {
+    "bayer": "alf Car",
+    "con": "Car",
+    "name": "Canopus"
+  },
+  "30860": {
+    "con": "Aur",
+    "name": "Lucilinburhuc"
+  },
+  "30905": {
+    "con": "Mon",
+    "name": "Lusitania"
+  },
+  "31681": {
+    "bayer": "gam Gem",
+    "con": "Gem",
+    "name": "Alhena"
+  },
+  "3179": {
+    "bayer": "alf Cas",
+    "con": "Cas",
+    "name": "Schedar"
+  },
+  "31895": {
+    "con": "Pup",
+    "name": "Nosaxa"
+  },
+  "32246": {
+    "bayer": "eps Gem",
+    "con": "Gem",
+    "name": "Mebsuta"
+  },
+  "32349": {
+    "bayer": "alf CMa",
+    "con": "CMa",
+    "name": "Sirius"
+  },
+  "32362": {
+    "bayer": "ksi Gem",
+    "con": "Gem",
+    "name": "Alzirr"
+  },
+  "32916": {
+    "con": "Aur",
+    "name": "Nervia"
+  },
+  "33579": {
+    "bayer": "eps CMa",
+    "con": "CMa",
+    "name": "Adhara"
+  },
+  "33719": {
+    "con": "Mon",
+    "name": "Citala"
+  },
+  "33856": {
+    "bayer": "sig CMa",
+    "con": "CMa",
+    "name": "Nganurganity"
+  },
+  "34045": {
+    "bayer": "gam CMa",
+    "con": "CMa",
+    "name": "Muliphein"
+  },
+  "34088": {
+    "bayer": "zet Gem",
+    "con": "Gem",
+    "name": "Mekbuda"
+  },
+  "3419": {
+    "bayer": "bet Cet",
+    "con": "Cet",
+    "name": "Diphda"
+  },
+  "34444": {
+    "bayer": "del CMa",
+    "con": "CMa",
+    "name": "Wezen"
+  },
+  "3479": {
+    "con": "Scl",
+    "name": "Cocibolca"
+  },
+  "35550": {
+    "bayer": "del Gem",
+    "con": "Gem",
+    "name": "Wasat"
+  },
+  "35904": {
+    "bayer": "eta CMa",
+    "con": "CMa",
+    "name": "Aludra"
+  },
+  "36188": {
+    "bayer": "bet CMi",
+    "con": "CMi",
+    "name": "Gomeisa"
+  },
+  "36850": {
+    "bayer": "alf Gem",
+    "con": "Gem",
+    "name": "Castor"
+  },
+  "37265": {
+    "bayer": "omi Gem",
+    "con": "Gem",
+    "name": "Jishui"
+  },
+  "37279": {
+    "bayer": "alf CMi",
+    "con": "CMi",
+    "name": "Procyon"
+  },
+  "37284": {
+    "con": "Cha",
+    "name": "Ceibo"
+  },
+  "37826": {
+    "bayer": "bet Gem",
+    "con": "Gem",
+    "name": "Pollux"
+  },
+  "38041": {
+    "con": "Car",
+    "name": "Tapecue"
+  },
+  "38170": {
+    "bayer": "ksi Pup",
+    "con": "Pup",
+    "name": "Azmidi"
+  },
+  "3821": {
+    "bayer": "eta Cas",
+    "con": "Cas",
+    "name": "Achird"
+  },
+  "39429": {
+    "bayer": "zet Pup",
+    "con": "Pup",
+    "name": "Naos"
+  },
+  "39757": {
+    "bayer": "rho Pup",
+    "con": "Pup",
+    "name": "Tureis"
+  },
+  "40167": {
+    "bayer": "zet01 Cnc",
+    "con": "Cnc",
+    "name": "Tegmine"
+  },
+  "40526": {
+    "bayer": "bet Cnc",
+    "con": "Cnc",
+    "name": "Tarf"
+  },
+  "40687": {
+    "con": "UMa",
+    "name": "Nasti"
+  },
+  "40881": {
+    "bayer": "lam Cnc",
+    "con": "Cnc",
+    "name": "Piautos"
+  },
+  "41037": {
+    "bayer": "eps Car",
+    "con": "Car",
+    "name": "Avior"
+  },
+  "41075": {
+    "bayer": "31 Lyn",
+    "con": "Lyn",
+    "name": "Alsciaukat"
+  },
+  "41704": {
+    "bayer": "omi UMa",
+    "con": "UMa",
+    "name": "Muscida"
+  },
+  "42402": {
+    "bayer": "sig Hya",
+    "con": "Hya",
+    "name": "Minchir"
+  },
+  "42446": {
+    "con": "Cnc",
+    "name": "Gakyid"
+  },
+  "42556": {
+    "bayer": "eps Cnc",
+    "con": "Cnc",
+    "name": "Meleph"
+  },
+  "42806": {
+    "bayer": "gam Cnc",
+    "con": "Cnc",
+    "name": "Asellus Borealis"
+  },
+  "42911": {
+    "bayer": "del Cnc",
+    "con": "Cnc",
+    "name": "Asellus Australis"
+  },
+  "42913": {
+    "bayer": "del Vel",
+    "con": "Vel",
+    "name": "Alsephina"
+  },
+  "43109": {
+    "bayer": "eps Hya",
+    "con": "Hya",
+    "name": "Ashlesha"
+  },
+  "43587": {
+    "bayer": "55 Cnc",
+    "con": "Cnc",
+    "name": "Copernicus"
+  },
+  "43674": {
+    "con": "Lyn",
+    "name": "Stribor"
+  },
+  "44066": {
+    "bayer": "alf Cnc",
+    "con": "Cnc",
+    "name": "Acubens"
+  },
+  "44127": {
+    "bayer": "iot UMa",
+    "con": "UMa",
+    "name": "Talitha"
+  },
+  "4422": {
+    "bayer": "ups02 Cas",
+    "con": "Cas",
+    "name": "Castula"
+  },
+  "44471": {
+    "bayer": "kap UMa",
+    "con": "UMa",
+    "name": "Alkaphrah"
+  },
+  "44816": {
+    "bayer": "lam Vel",
+    "con": "Vel",
+    "name": "Suhail"
+  },
+  "44946": {
+    "bayer": "ksi Cnc",
+    "con": "Cnc",
+    "name": "Nahn"
+  },
+  "45238": {
+    "bayer": "bet Car",
+    "con": "Car",
+    "name": "Miaplacidus"
+  },
+  "45556": {
+    "bayer": "iot Car",
+    "con": "Car",
+    "name": "Aspidiske"
+  },
+  "45941": {
+    "bayer": "kap Vel",
+    "con": "Vel",
+    "name": "Markeb"
+  },
+  "46390": {
+    "bayer": "alf Hya",
+    "con": "Hya",
+    "name": "Alphard"
+  },
+  "46471": {
+    "con": "UMa",
+    "name": "Intercrus"
+  },
+  "46750": {
+    "bayer": "lam Leo",
+    "con": "Leo",
+    "name": "Alterf"
+  },
+  "47087": {
+    "con": "LMi",
+    "name": "Illyrian"
+  },
+  "47202": {
+    "con": "Vel",
+    "name": "Kalausi"
+  },
+  "47431": {
+    "bayer": "iot Hya",
+    "con": "Hya",
+    "name": "Ukdah"
+  },
+  "47508": {
+    "bayer": "omi Leo",
+    "con": "Leo",
+    "name": "Subra"
+  },
+  "48235": {
+    "con": "Vel",
+    "name": "Natasha"
+  },
+  "48356": {
+    "bayer": "ups01 Hya",
+    "con": "Hya",
+    "name": "Zhang"
+  },
+  "48455": {
+    "bayer": "mu Leo",
+    "con": "Leo",
+    "name": "Rasalas"
+  },
+  "48615": {
+    "con": "Hya",
+    "name": "Felis"
+  },
+  "48711": {
+    "con": "Sex",
+    "name": "Bibha"
+  },
+  "49669": {
+    "bayer": "alf Leo",
+    "con": "Leo",
+    "name": "Regulus"
+  },
+  "50335": {
+    "bayer": "zet Leo",
+    "con": "Leo",
+    "name": "Adhafera"
+  },
+  "50372": {
+    "bayer": "lam UMa",
+    "con": "UMa",
+    "name": "Tania Borealis"
+  },
+  "5054": {
+    "con": "Phe",
+    "name": "Nenque"
+  },
+  "50583": {
+    "bayer": "gam01 Leo",
+    "con": "Leo",
+    "name": "Algieba"
+  },
+  "50801": {
+    "bayer": "mu UMa",
+    "con": "UMa",
+    "name": "Tania Australis"
+  },
+  "52521": {
+    "con": "Ant",
+    "name": "Macondo"
+  },
+  "53229": {
+    "bayer": "46 LMi",
+    "con": "LMi",
+    "name": "Praecipua"
+  },
+  "5348": {
+    "bayer": "zet Phe",
+    "con": "Phe",
+    "name": "Wurren"
+  },
+  "53721": {
+    "bayer": "47 UMa",
+    "con": "UMa",
+    "name": "Chalawan"
+  },
+  "53740": {
+    "bayer": "alf Crt",
+    "con": "Crt",
+    "name": "Alkes"
+  },
+  "53910": {
+    "bayer": "bet UMa",
+    "con": "UMa",
+    "name": "Merak"
+  },
+  "54061": {
+    "bayer": "alf UMa",
+    "con": "UMa",
+    "name": "Dubhe"
+  },
+  "54158": {
+    "con": "Leo",
+    "name": "Dingolay"
+  },
+  "5447": {
+    "bayer": "bet And",
+    "con": "And",
+    "name": "Mirach"
+  },
+  "54872": {
+    "bayer": "del Leo",
+    "con": "Leo",
+    "name": "Zosma"
+  },
+  "54879": {
+    "bayer": "tet Leo",
+    "con": "Leo",
+    "name": "Chertan"
+  },
+  "55174": {
+    "con": "Crt",
+    "name": "Hunahpu"
+  },
+  "55203": {
+    "bayer": "ksi UMa",
+    "con": "UMa",
+    "name": "Alula Australis"
+  },
+  "55219": {
+    "bayer": "nu UMa",
+    "con": "UMa",
+    "name": "Alula Borealis"
+  },
+  "5529": {
+    "con": "Tuc",
+    "name": "Emiw"
+  },
+  "55664": {
+    "con": "Leo",
+    "name": "Shama"
+  },
+  "56211": {
+    "bayer": "lam Dra",
+    "con": "Dra",
+    "name": "Giausar"
+  },
+  "56508": {
+    "con": "Leo",
+    "name": "Formosa"
+  },
+  "56572": {
+    "con": "Leo",
+    "name": "Sagarmatha"
+  },
+  "57291": {
+    "con": "Cen",
+    "name": "Uklun"
+  },
+  "5737": {
+    "bayer": "zet Psc",
+    "con": "Psc",
+    "name": "Revati"
+  },
+  "57370": {
+    "con": "Vir",
+    "name": "Flegetonte"
+  },
+  "57399": {
+    "bayer": "chi UMa",
+    "con": "UMa",
+    "name": "Taiyangshou"
+  },
+  "57632": {
+    "bayer": "bet Leo",
+    "con": "Leo",
+    "name": "Denebola"
+  },
+  "57757": {
+    "bayer": "bet Vir",
+    "con": "Vir",
+    "name": "Zavijava"
+  },
+  "57820": {
+    "con": "UMa",
+    "name": "Aniara"
+  },
+  "58001": {
+    "bayer": "gam UMa",
+    "con": "UMa",
+    "name": "Phecda"
+  },
+  "58952": {
+    "con": "Cam",
+    "name": "Tonatiuh"
+  },
+  "59199": {
+    "bayer": "alf Crv",
+    "con": "Crv",
+    "name": "Alchiba"
+  },
+  "59747": {
+    "bayer": "del Cru",
+    "con": "Cru",
+    "name": "Imai"
+  },
+  "59774": {
+    "bayer": "del UMa",
+    "con": "UMa",
+    "name": "Megrez"
+  },
+  "59803": {
+    "bayer": "gam Crv",
+    "con": "Crv",
+    "name": "Gienah"
+  },
+  "60129": {
+    "bayer": "eta Vir",
+    "con": "Vir",
+    "name": "Zaniah"
+  },
+  "60260": {
+    "bayer": "eps Cru",
+    "con": "Cru",
+    "name": "Ginan"
+  },
+  "60644": {
+    "con": "Cru",
+    "name": "Tupa"
+  },
+  "60718": {
+    "bayer": "alf Cru",
+    "con": "Cru",
+    "name": "Acrux"
+  },
+  "60965": {
+    "bayer": "del Crv",
+    "con": "Crv",
+    "name": "Algorab"
+  },
+  "61084": {
+    "bayer": "gam Cru",
+    "con": "Cru",
+    "name": "Gacrux"
+  },
+  "61177": {
+    "con": "Dra",
+    "name": "Funi"
+  },
+  "61317": {
+    "bayer": "bet CVn",
+    "con": "CVn",
+    "name": "Chara"
+  },
+  "61359": {
+    "bayer": "bet Crv",
+    "con": "Crv",
+    "name": "Kraz"
+  },
+  "61941": {
+    "bayer": "gam Vir",
+    "con": "Vir",
+    "name": "Porrima"
+  },
+  "62223": {
+    "bayer": "Y CVn",
+    "con": "CVn",
+    "name": "La Superba"
+  },
+  "62423": {
+    "bayer": "7 Dra",
+    "con": "Dra",
+    "name": "Tianyi"
+  },
+  "62434": {
+    "bayer": "bet Cru",
+    "con": "Cru",
+    "name": "Mimosa"
+  },
+  "62956": {
+    "bayer": "eps UMa",
+    "con": "UMa",
+    "name": "Alioth"
+  },
+  "63076": {
+    "bayer": "8 Dra",
+    "con": "Dra",
+    "name": "Taiyi"
+  },
+  "63090": {
+    "bayer": "del Vir",
+    "con": "Vir",
+    "name": "Minelauva"
+  },
+  "63125": {
+    "bayer": "alf02 CVn",
+    "con": "CVn",
+    "name": "Cor Caroli"
+  },
+  "63608": {
+    "bayer": "eps Vir",
+    "con": "Vir",
+    "name": "Vindemiatrix"
+  },
+  "6411": {
+    "bayer": "ksi And",
+    "con": "And",
+    "name": "Adhil"
+  },
+  "64241": {
+    "bayer": "alf Com",
+    "con": "Com",
+    "name": "Diadem"
+  },
+  "65378": {
+    "bayer": "zet UMa",
+    "con": "UMa",
+    "name": "Mizar"
+  },
+  "65474": {
+    "bayer": "alf Vir",
+    "con": "Vir",
+    "name": "Spica"
+  },
+  "65477": {
+    "bayer": "80 UMa",
+    "con": "UMa",
+    "name": "Alcor"
+  },
+  "66047": {
+    "con": "Cen",
+    "name": "Dofida"
+  },
+  "66192": {
+    "con": "UMa",
+    "name": "Liesma"
+  },
+  "66249": {
+    "bayer": "zet Vir",
+    "con": "Vir",
+    "name": "Heze"
+  },
+  "6643": {
+    "con": "Psc",
+    "name": "Belenos"
+  },
+  "6686": {
+    "bayer": "del Cas",
+    "con": "Cas",
+    "name": "Ruchbah"
+  },
+  "67301": {
+    "bayer": "eta UMa",
+    "con": "UMa",
+    "name": "Alkaid"
+  },
+  "677": {
+    "bayer": "alf And",
+    "con": "And",
+    "name": "Alpheratz"
+  },
+  "67927": {
+    "bayer": "eta Boo",
+    "con": "Boo",
+    "name": "Muphrid"
+  },
+  "68702": {
+    "bayer": "bet Cen",
+    "con": "Cen",
+    "name": "Hadar"
+  },
+  "68756": {
+    "bayer": "alf Dra",
+    "con": "Dra",
+    "name": "Thuban"
+  },
+  "68933": {
+    "bayer": "tet Cen",
+    "con": "Cen",
+    "name": "Menkent"
+  },
+  "69427": {
+    "bayer": "kap Vir",
+    "con": "Vir",
+    "name": "Kang"
+  },
+  "69673": {
+    "bayer": "alf Boo",
+    "con": "Boo",
+    "name": "Arcturus"
+  },
+  "69701": {
+    "bayer": "iot Vir",
+    "con": "Vir",
+    "name": "Syrma"
+  },
+  "69732": {
+    "bayer": "lam Boo",
+    "con": "Boo",
+    "name": "Xuange"
+  },
+  "69974": {
+    "bayer": "lam Vir",
+    "con": "Vir",
+    "name": "Khambalia"
+  },
+  "70755": {
+    "bayer": "phi Vir",
+    "con": "Vir",
+    "name": "Elgafar"
+  },
+  "70890": {
+    "bayer": "alf Cen",
+    "con": "Cen",
+    "name": "Proxima Centauri"
+  },
+  "7097": {
+    "bayer": "eta Psc",
+    "con": "Psc",
+    "name": "Alpherg"
+  },
+  "71075": {
+    "bayer": "gam Boo",
+    "con": "Boo",
+    "name": "Seginus"
+  },
+  "71681": {
+    "bayer": "alf Cen",
+    "con": "Cen",
+    "name": "Toliman"
+  },
+  "71683": {
+    "bayer": "alf Cen",
+    "con": "Cen",
+    "name": "Rigil Kentaurus"
+  },
+  "72105": {
+    "bayer": "eps Boo",
+    "con": "Boo",
+    "name": "Izar"
+  },
+  "72339": {
+    "con": "Vir",
+    "name": "Monch"
+  },
+  "72487": {
+    "bayer": "38 Boo",
+    "con": "Boo",
+    "name": "Merga"
+  },
+  "72607": {
+    "bayer": "bet UMi",
+    "con": "UMi",
+    "name": "Kochab"
+  },
+  "72622": {
+    "bayer": "alf02 Lib",
+    "con": "Lib",
+    "name": "Zubenelgenubi"
+  },
+  "72845": {
+    "con": "Boo",
+    "name": "Arcalis"
+  },
+  "73136": {
+    "bayer": "8 UMi",
+    "con": "UMi",
+    "name": "Baekdu"
+  },
+  "73555": {
+    "bayer": "bet Boo",
+    "con": "Boo",
+    "name": "Nekkar"
+  },
+  "73714": {
+    "bayer": "sig Lib",
+    "con": "Lib",
+    "name": "Brachium"
+  },
+  "746": {
+    "bayer": "bet Cas",
+    "con": "Cas",
+    "name": "Caph"
+  },
+  "74785": {
+    "bayer": "bet Lib",
+    "con": "Lib",
+    "name": "Zubeneschamali"
+  },
+  "74961": {
+    "con": "Boo",
+    "name": "Nikawiy"
+  },
+  "75097": {
+    "bayer": "gam UMi",
+    "con": "UMi",
+    "name": "Pherkad"
+  },
+  "7513": {
+    "bayer": "ups And",
+    "con": "And",
+    "name": "Titawin"
+  },
+  "75411": {
+    "bayer": "mu01 Boo",
+    "con": "Boo",
+    "name": "Alkalurops"
+  },
+  "75458": {
+    "bayer": "iot Dra",
+    "con": "Dra",
+    "name": "Edasich"
+  },
+  "75695": {
+    "bayer": "bet CrB",
+    "con": "CrB",
+    "name": "Nusakan"
+  },
+  "7588": {
+    "bayer": "alf Eri",
+    "con": "Eri",
+    "name": "Achernar"
+  },
+  "7607": {
+    "bayer": "51 And",
+    "con": "And",
+    "name": "Nembus"
+  },
+  "76267": {
+    "bayer": "alf CrB",
+    "con": "CrB",
+    "name": "Alphecca"
+  },
+  "76333": {
+    "bayer": "gam Lib",
+    "con": "Lib",
+    "name": "Zubenelhakrabi"
+  },
+  "76351": {
+    "con": "Aps",
+    "name": "Karaka"
+  },
+  "77070": {
+    "bayer": "alf Ser",
+    "con": "Ser",
+    "name": "Unukalhai"
+  },
+  "77450": {
+    "bayer": "kap Ser",
+    "con": "Ser",
+    "name": "Gudja"
+  },
+  "78104": {
+    "bayer": "rho Sco",
+    "con": "Sco",
+    "name": "Iklil"
+  },
+  "78265": {
+    "bayer": "pi Sco",
+    "con": "Sco",
+    "name": "Fang"
+  },
+  "78401": {
+    "bayer": "del Sco",
+    "con": "Sco",
+    "name": "Dschubba"
+  },
+  "78820": {
+    "bayer": "bet Sco",
+    "con": "Sco",
+    "name": "Acrab"
+  },
+  "79043": {
+    "bayer": "kap Her",
+    "con": "Her",
+    "name": "Marsic"
+  },
+  "79219": {
+    "con": "CrB",
+    "name": "Kamuy"
+  },
+  "79374": {
+    "bayer": "nu Sco",
+    "con": "Sco",
+    "name": "Jabbah"
+  },
+  "79431": {
+    "con": "Sco",
+    "name": "Sharjah"
+  },
+  "79593": {
+    "bayer": "del Oph",
+    "con": "Oph",
+    "name": "Yed Prior"
+  },
+  "79882": {
+    "bayer": "eps Oph",
+    "con": "Oph",
+    "name": "Yed Posterior"
+  },
+  "80076": {
+    "con": "Her",
+    "name": "Hunor"
+  },
+  "80112": {
+    "bayer": "sig Sco",
+    "con": "Sco",
+    "name": "Alniyat"
+  },
+  "80331": {
+    "bayer": "eta Dra",
+    "con": "Dra",
+    "name": "Athebyne"
+  },
+  "80463": {
+    "bayer": "ome Her",
+    "con": "Her",
+    "name": "Cujam"
+  },
+  "80687": {
+    "con": "Oph",
+    "name": "Timir"
+  },
+  "80763": {
+    "bayer": "alf Sco",
+    "con": "Sco",
+    "name": "Antares"
+  },
+  "80816": {
+    "bayer": "bet Her",
+    "con": "Her",
+    "name": "Kornephoros"
+  },
+  "80838": {
+    "con": "Her",
+    "name": "Ogma"
+  },
+  "80883": {
+    "bayer": "lam Oph",
+    "con": "Oph",
+    "name": "Marfik"
+  },
+  "81022": {
+    "con": "Oph",
+    "name": "Rosaliadecastro"
+  },
+  "81266": {
+    "bayer": "tau Sco",
+    "con": "Sco",
+    "name": "Paikauhale"
+  },
+  "8198": {
+    "bayer": "omi Psc",
+    "con": "Psc",
+    "name": "Torcular"
+  },
+  "82273": {
+    "bayer": "alf TrA",
+    "con": "TrA",
+    "name": "Atria"
+  },
+  "82396": {
+    "bayer": "eps Sco",
+    "con": "Sco",
+    "name": "Larawag"
+  },
+  "82514": {
+    "bayer": "mu01 Sco",
+    "con": "Sco",
+    "name": "Xamidimura"
+  },
+  "82545": {
+    "bayer": "mu02 Sco",
+    "con": "Sco",
+    "name": "Pipirima"
+  },
+  "82651": {
+    "con": "Oph",
+    "name": "Mahsati"
+  },
+  "83547": {
+    "con": "Sco",
+    "name": "Rapeto"
+  },
+  "83608": {
+    "bayer": "mu Dra",
+    "con": "Dra",
+    "name": "Alrakis"
+  },
+  "83895": {
+    "bayer": "zet Dra",
+    "con": "Dra",
+    "name": "Aldhibah"
+  },
+  "84012": {
+    "bayer": "eta Oph",
+    "con": "Oph",
+    "name": "Sabik"
+  },
+  "84345": {
+    "bayer": "alf01 Her",
+    "con": "Her",
+    "name": "Rasalgethi"
+  },
+  "84379": {
+    "bayer": "del Her",
+    "con": "Her",
+    "name": "Sarin"
+  },
+  "84405": {
+    "bayer": "36 Oph",
+    "con": "Oph",
+    "name": "Guniibuu"
+  },
+  "84787": {
+    "con": "Ara",
+    "name": "Inquill"
+  },
+  "85670": {
+    "bayer": "bet Dra",
+    "con": "Dra",
+    "name": "Rastaban"
+  },
+  "85693": {
+    "bayer": "lam Her",
+    "con": "Her",
+    "name": "Maasym"
+  },
+  "85696": {
+    "bayer": "ups Sco",
+    "con": "Sco",
+    "name": "Lesath"
+  },
+  "85822": {
+    "bayer": "del UMi",
+    "con": "UMi",
+    "name": "Yildun"
+  },
+  "85927": {
+    "bayer": "lam Sco",
+    "con": "Sco",
+    "name": "Shaula"
+  },
+  "86032": {
+    "bayer": "alf Oph",
+    "con": "Oph",
+    "name": "Rasalhague"
+  },
+  "86228": {
+    "bayer": "tet Sco",
+    "con": "Sco",
+    "name": "Sargas"
+  },
+  "8645": {
+    "bayer": "zet Cet",
+    "con": "Cet",
+    "name": "Baten Kaitos"
+  },
+  "86614": {
+    "bayer": "psi01 Dra",
+    "con": "Dra",
+    "name": "Dziban"
+  },
+  "86742": {
+    "bayer": "bet Oph",
+    "con": "Oph",
+    "name": "Cebalrai"
+  },
+  "86782": {
+    "con": "Dra",
+    "name": "Alruba"
+  },
+  "86796": {
+    "bayer": "mu Ara",
+    "con": "Ara",
+    "name": "Cervantes"
+  },
+  "87261": {
+    "con": "Sco",
+    "name": "Fuyue"
+  },
+  "87585": {
+    "bayer": "ksi Dra",
+    "con": "Dra",
+    "name": "Grumium"
+  },
+  "87833": {
+    "bayer": "gam Dra",
+    "con": "Dra",
+    "name": "Eltanin"
+  },
+  "87937": {
+    "bayer": "V2500 Oph",
+    "con": "Oph",
+    "name": "Barnard's Star"
+  },
+  "8796": {
+    "bayer": "alf Tri",
+    "con": "Tri",
+    "name": "Mothallah"
+  },
+  "8832": {
+    "bayer": "gam02 Ari",
+    "con": "Ari",
+    "name": "Mesarthim"
+  },
+  "88414": {
+    "con": "Sgr",
+    "name": "Pincoya"
+  },
+  "88635": {
+    "bayer": "gam02 Sgr",
+    "con": "Sgr",
+    "name": "Alnasl"
+  },
+  "8886": {
+    "bayer": "eps Cas",
+    "con": "Cas",
+    "name": "Segin"
+  },
+  "8903": {
+    "bayer": "bet Ari",
+    "con": "Ari",
+    "name": "Sheratan"
+  },
+  "89341": {
+    "bayer": "mu Sgr",
+    "con": "Sgr",
+    "name": "Polis"
+  },
+  "89931": {
+    "bayer": "del Sgr",
+    "con": "Sgr",
+    "name": "Kaus Media"
+  },
+  "90004": {
+    "con": "Ser",
+    "name": "Alasia"
+  },
+  "90185": {
+    "bayer": "eps Sgr",
+    "con": "Sgr",
+    "name": "Kaus Australis"
+  },
+  "90344": {
+    "bayer": "42 Dra",
+    "con": "Dra",
+    "name": "Fafnir"
+  },
+  "90496": {
+    "bayer": "lam Sgr",
+    "con": "Sgr",
+    "name": "Kaus Borealis"
+  },
+  "91262": {
+    "bayer": "alf Lyr",
+    "con": "Lyr",
+    "name": "Vega"
+  },
+  "91852": {
+    "con": "Lyr",
+    "name": "Xihe"
+  },
+  "92420": {
+    "bayer": "bet Lyr",
+    "con": "Lyr",
+    "name": "Sheliak"
+  },
+  "92761": {
+    "bayer": "nu01 Sgr",
+    "con": "Sgr",
+    "name": "Ainalrami"
+  },
+  "92855": {
+    "bayer": "sig Sgr",
+    "con": "Sgr",
+    "name": "Nunki"
+  },
+  "92895": {
+    "con": "Ser",
+    "name": "Kaveh"
+  },
+  "92946": {
+    "bayer": "tet01 Ser",
+    "con": "Ser",
+    "name": "Alya"
+  },
+  "93194": {
+    "bayer": "gam Lyr",
+    "con": "Lyr",
+    "name": "Sulafat"
+  },
+  "93506": {
+    "bayer": "zet Sgr",
+    "con": "Sgr",
+    "name": "Ascella"
+  },
+  "93747": {
+    "bayer": "zet Aql",
+    "con": "Aql",
+    "name": "Okab"
+  },
+  "94114": {
+    "bayer": "alf CrA",
+    "con": "CrA",
+    "name": "Meridiana"
+  },
+  "94141": {
+    "bayer": "pi Sgr",
+    "con": "Sgr",
+    "name": "Albaldah"
+  },
+  "94376": {
+    "bayer": "del Dra",
+    "con": "Dra",
+    "name": "Altais"
+  },
+  "94481": {
+    "bayer": "eta Lyr",
+    "con": "Lyr",
+    "name": "Aladfar"
+  },
+  "94645": {
+    "bayer": "V5652 Sgr",
+    "con": "Sgr",
+    "name": "Gumala"
+  },
+  "9487": {
+    "bayer": "alf Psc",
+    "con": "Psc",
+    "name": "Alrescha"
+  },
+  "95124": {
+    "con": "Sgr",
+    "name": "Belel"
+  },
+  "95241": {
+    "bayer": "bet01 Sgr",
+    "con": "Sgr",
+    "name": "Arkab Prior"
+  },
+  "95262": {
+    "con": "Sgr",
+    "name": "Sika"
+  },
+  "95294": {
+    "bayer": "bet02 Sgr",
+    "con": "Sgr",
+    "name": "Arkab Posterior"
+  },
+  "95347": {
+    "bayer": "alf Sgr",
+    "con": "Sgr",
+    "name": "Rukbat"
+  },
+  "95771": {
+    "bayer": "alf Vul",
+    "con": "Vul",
+    "name": "Anser"
+  },
+  "95947": {
+    "bayer": "bet Cyg",
+    "con": "Cyg",
+    "name": "Albireo"
+  },
+  "96078": {
+    "con": "Sge",
+    "name": "Uruk"
+  },
+  "96100": {
+    "bayer": "sig Dra",
+    "con": "Dra",
+    "name": "Alsafi"
+  },
+  "9640": {
+    "bayer": "gam And",
+    "con": "And",
+    "name": "Almach"
+  },
+  "96757": {
+    "bayer": "alf Sge",
+    "con": "Sge",
+    "name": "Sham"
+  },
+  "97165": {
+    "bayer": "del Cyg",
+    "con": "Cyg",
+    "name": "Fawaris"
+  },
+  "97278": {
+    "bayer": "gam Aql",
+    "con": "Aql",
+    "name": "Tarazed"
+  },
+  "97649": {
+    "bayer": "alf Aql",
+    "con": "Aql",
+    "name": "Altair"
+  },
+  "97938": {
+    "bayer": "ksi Aql",
+    "con": "Aql",
+    "name": "Libertas"
+  },
+  "98036": {
+    "bayer": "bet Aql",
+    "con": "Aql",
+    "name": "Alshain"
+  },
+  "98066": {
+    "bayer": "ome Sgr",
+    "con": "Sgr",
+    "name": "Terebellum"
+  },
+  "9884": {
+    "bayer": "alf Ari",
+    "con": "Ari",
+    "name": "Hamal"
+  },
+  "99711": {
+    "bayer": "V1703 Aql",
+    "con": "Aql",
+    "name": "Phoenicia"
+  },
+  "99894": {
+    "con": "Aql",
+    "name": "Chechia"
+  }
+}
