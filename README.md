@@ -7,10 +7,14 @@ sky changes tonight.
 
 ## Setup
 
+Requires [uv](https://docs.astral.sh/uv/):
+
 ```bash
-python -m venv .venv          # if you don't already have one
-.venv/bin/pip install -e ".[dev]"
+uv sync
 ```
+
+This creates `.venv/` and installs the app plus dev tools (pytest, ruff,
+pytest-watcher) from `uv.lock`.
 
 ## First run: one-time data download
 
@@ -26,13 +30,13 @@ everything works offline. On a slow connection, warm the cache ahead of
 time instead of waiting on app startup:
 
 ```bash
-.venv/bin/python scripts/prefetch_data.py
+uv run scripts/prefetch_data.py
 ```
 
 ## Run it
 
 ```bash
-.venv/bin/uvicorn stargaze.app:app --reload --app-dir src
+uv run uvicorn stargaze.app:app --reload --app-dir src
 ```
 
 Then open <http://localhost:8000>. The page will ask for your location
@@ -42,13 +46,13 @@ manually if you'd rather not share it.
 ## Tests
 
 ```bash
-.venv/bin/pytest
+uv run pytest
 ```
 
 `pytest-watcher` is installed for continuous re-run on save:
 
 ```bash
-.venv/bin/ptw
+uv run ptw
 ```
 
 ## Project layout
