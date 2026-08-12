@@ -55,6 +55,27 @@ uv run pytest
 uv run ptw
 ```
 
+## Deploying (Render)
+
+The `Dockerfile` bakes the Skyfield ephemeris/star catalog into the image
+at build time, so the deployed container needs no outbound network access
+to serve requests. `render.yaml` is a Render
+[Blueprint](https://render.com/docs/blueprint-spec) that deploys it as a
+Docker-based web service on the free plan:
+
+1. Push this repo to GitHub (already done).
+2. In the Render dashboard: New -> Blueprint -> pick this repo. Render
+   reads `render.yaml` and provisions the `stargaze` web service.
+3. Render sets the `PORT` env var itself and proxies HTTPS to it; the
+   container's `CMD` reads `$PORT` automatically.
+
+To build/run the same image locally:
+
+```bash
+docker build -t stargaze .
+docker run -p 8000:8000 stargaze
+```
+
 ## Project layout
 
 - `src/stargaze/astronomy.py` -- Skyfield setup and position computation

@@ -22,4 +22,6 @@ RUN python scripts/prefetch_data.py
 
 EXPOSE 8000
 
-CMD ["uvicorn", "stargaze.app:app", "--app-dir", "src", "--host", "0.0.0.0", "--port", "8000"]
+# Shell form so $PORT (set by the host platform, e.g. Render) is expanded;
+# falls back to 8000 for a plain `docker run` with no PORT set.
+CMD ["sh", "-c", "uvicorn stargaze.app:app --app-dir src --host 0.0.0.0 --port ${PORT:-8000}"]

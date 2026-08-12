@@ -1,0 +1,8 @@
+services:
+  - name: stargaze
+    type: web
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    plan: free
+    healthCheckPath: /
