@@ -5,6 +5,10 @@ and constellation lines for your location, right in the browser -- drag to
 pan around the sky, scroll to zoom, and scrub a time slider to see how the
 sky changes tonight.
 
+**Live demo:** <https://stargaze-zbvh.onrender.com/> (hosted on Render's
+free plan -- the instance sleeps after inactivity, so the first request
+after a while may take ~30s to wake up).
+
 ## Setup
 
 Requires [uv](https://docs.astral.sh/uv/):
