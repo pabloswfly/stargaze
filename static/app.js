@@ -5,6 +5,7 @@
   const ctx2d = canvas.getContext("2d");
   const tooltip = document.getElementById("tooltip");
   const statusEl = document.getElementById("status");
+  const compassEl = document.getElementById("compass");
 
   const latInput = document.getElementById("lat");
   const lonInput = document.getElementById("lon");
@@ -64,10 +65,9 @@
     const y1 = x * Math.sin(azC) + y * Math.cos(azC);
     const z1 = z;
 
-    // Tilt so altC maps to the forward axis: rotate around x-axis by (90 - altC).
-    const tilt = Math.PI / 2 - altC;
-    const y2 = y1 * Math.cos(tilt) + z1 * Math.sin(tilt);
-    const z2 = -y1 * Math.sin(tilt) + z1 * Math.cos(tilt);
+    // Tilt so altC maps to the forward (+Y) axis: rotate around the x-axis by -altC.
+    const y2 = y1 * Math.cos(altC) + z1 * Math.sin(altC);
+    const z2 = -y1 * Math.sin(altC) + z1 * Math.cos(altC);
     const x2 = x1;
 
     // (x2, z2) span the tangent plane; y2 = cos(angular distance from center).
@@ -112,6 +112,66 @@
     return "#05060a"; // full night
   }
 
+  // ---- Horizon line + cardinal directions ----
+
+  const CARDINAL_POINTS = [
+    ["N", 0],
+    ["E", 90],
+    ["S", 180],
+    ["W", 270],
+  ];
+
+  function drawHorizon() {
+    const steps = 180;
+    ctx2d.strokeStyle = "rgba(120, 210, 150, 0.55)";
+    ctx2d.lineWidth = 1.5 * window.devicePixelRatio;
+    ctx2d.setLineDash([6 * window.devicePixelRatio, 5 * window.devicePixelRatio]);
+    ctx2d.beginPath();
+    let started = false;
+    for (let i = 0; i <= steps; i++) {
+      const az = (360 * i) / steps;
+      const p = project(0, az);
+      if (p.behind) {
+        started = false;
+        continue;
+      }
+      const { sx, sy } = toScreen(p.x, p.y);
+      if (!started) {
+        ctx2d.moveTo(sx, sy);
+        started = true;
+      } else {
+        ctx2d.lineTo(sx, sy);
+      }
+    }
+    ctx2d.stroke();
+    ctx2d.setLineDash([]);
+
+    ctx2d.font = `bold ${13 * window.devicePixelRatio}px sans-serif`;
+    ctx2d.fillStyle = "rgba(150, 230, 175, 0.95)";
+    ctx2d.textAlign = "center";
+    for (const [label, az] of CARDINAL_POINTS) {
+      const p = project(0, az);
+      if (p.behind) continue;
+      const { sx, sy } = toScreen(p.x, p.y);
+      if (sx < -20 || sx > canvas.width + 20 || sy < -20 || sy > canvas.height + 20) continue;
+      ctx2d.fillText(label, sx, sy + 18 * window.devicePixelRatio);
+    }
+    ctx2d.textAlign = "left";
+  }
+
+  function azToCompass(azDeg) {
+    const dirs = ["N", "NE", "E", "SE", "S", "SW", "W", "NW"];
+    const idx = Math.round((((azDeg % 360) + 360) % 360) / 45) % 8;
+    return dirs[idx];
+  }
+
+  function updateCompass() {
+    const altLabel = state.centerAlt >= 0 ? "above horizon" : "below horizon";
+    compassEl.textContent =
+      `Facing ${azToCompass(state.centerAz)} (${Math.round(state.centerAz)}°) · ` +
+      `${Math.abs(Math.round(state.centerAlt))}° ${altLabel}`;
+  }
+
   function resize() {
     canvas.width = window.innerWidth * window.devicePixelRatio;
     canvas.height = window.innerHeight * window.devicePixelRatio;
@@ -125,6 +185,9 @@
     updateScale();
     ctx2d.fillStyle = skyTintColor();
     ctx2d.fillRect(0, 0, canvas.width, canvas.height);
+
+    drawHorizon();
+    updateCompass();
 
     if (!state.skyData) return;
 

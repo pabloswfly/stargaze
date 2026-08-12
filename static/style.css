@@ -67,6 +67,21 @@ html, body {
   max-width: 60vw;
 }
 
+.compass {
+  position: fixed;
+  bottom: 12px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 12px;
+  color: var(--muted);
+  background: rgba(10, 12, 20, 0.6);
+  padding: 4px 10px;
+  border-radius: 6px;
+  z-index: 15;
+  pointer-events: none;
+  letter-spacing: 0.02em;
+}
+
 .panel-toggle {
   position: fixed;
   top: 12px;
