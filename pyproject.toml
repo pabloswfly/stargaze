@@ -8,6 +8,7 @@ dependencies = [
     "uvicorn[standard]>=0.32",
     "skyfield>=1.49",
     "numpy>=2.1",
+    "pandas>=2.2",
     "pydantic>=2.9",
 ]
 
